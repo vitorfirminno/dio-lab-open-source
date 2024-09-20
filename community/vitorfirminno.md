@@ -17,7 +17,7 @@ permitam continuar aprendendo e crescendo profissionalmente <p/>
   
 <h2 align="center"> 🔌Conecte-se comigo </h2>
 
-<div align="center">
+
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=fffff)](https://github.com/vitorfirminno)
-</div>
+
 

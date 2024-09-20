@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #EB9326">Vitor Firmino de Souza</h1>
 </b> <p> Estou cursando Análise e Desenvolvimento de Sistemas</p>
 
-<h2 align="center"> 🔌Conecte-se comigo / Connect with me </h2>
+
 <p>Estou em busca de uma oportunidade na área de Tecnologia para aplicar os
 conhecimentos adquiridos durante minha formação e contribuir para o crescimento da
 empresa com minhas habilidades técnicas e capacidade de trabalho em equipe. Sou um
@@ -14,6 +14,8 @@ Acredito que essa bagagem seja um diferencial para minha atuação como profissi
 tecnologia.
 Motivado a seguir minha jornada na área de TI, busco agora novos desafios que me
 permitam continuar aprendendo e crescendo profissionalmente <p/>
+  
+<h2 align="center"> 🔌Conecte-se comigo </h2>
 
 <div align="center">
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=fffff)](https://github.com/vitorfirminno)
